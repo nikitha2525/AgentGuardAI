@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/agents/page": "app/agents/page.js",
+  "/attack-chain/page": "app/attack-chain/page.js",
+  "/analyze/page": "app/analyze/page.js",
+  "/page": "app/page.js",
+  "/tools/page": "app/tools/page.js",
+  "/events/page": "app/events/page.js"
+}
